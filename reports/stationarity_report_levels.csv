@@ -1,0 +1,9 @@
+Variable,Series,ADF_pvalue,ADF_interpretation
+Inflation,Level,0.5170386436540882,ADF: Fail to reject unit root (non-stationary)
+Interest Rate,Level,0.27683819642212604,ADF: Fail to reject unit root (non-stationary)
+M2,Level,1.0,ADF: Fail to reject unit root (non-stationary)
+Industry Production,Level,0.001326126471530076,ADF: Reject unit root (stationary)
+Import,Level,0.9779787884803416,ADF: Fail to reject unit root (non-stationary)
+Export,Level,0.9986725281653024,ADF: Fail to reject unit root (non-stationary)
+USDPLN,Level,0.4372099625952693,ADF: Fail to reject unit root (non-stationary)
+USD Reserves,Level,0.9937609167472283,ADF: Fail to reject unit root (non-stationary)

@@ -1,0 +1,9 @@
+Variable,Series,ADF_pvalue,ADF_interpretation
+Inflation,Diff(1),3.563091236180859e-08,ADF: Reject unit root (stationary)
+Interest Rate,Diff(1),0.00015522433324361896,ADF: Reject unit root (stationary)
+M2,Diff(1),0.2998455054815589,ADF: Fail to reject unit root (non-stationary)
+Industry Production,Diff(1),7.311063102189193e-19,ADF: Reject unit root (stationary)
+Import,Diff(1),0.009216020760633534,ADF: Reject unit root (stationary)
+Export,Diff(1),0.00048636453625768597,ADF: Reject unit root (stationary)
+USDPLN,Diff(1),1.3353253080707158e-27,ADF: Reject unit root (stationary)
+USD Reserves,Diff(1),0.0007162367976675944,ADF: Reject unit root (stationary)
