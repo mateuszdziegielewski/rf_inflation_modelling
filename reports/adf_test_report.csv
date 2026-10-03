@@ -1,0 +1,9 @@
+Variable,P-value,Stationarity
+Inflation,0.9963,Order 1 differencing
+Interest Rate,0.2344,Order 1 differencing
+M2,0.2298,Order 1 differencing
+Import,0.0002,Stationary
+Export,0.0000,Stationary
+Industry Production,0.0014,Stationary
+USDPLN,0.0013,Stationary
+USD Reserves,0.1068,Order 1 differencing
