@@ -1,6 +1,6 @@
 # **Modelling Inflation with Random Forests**
 
-This repository contains the data, code and output of the study describe in the paper **"Modelling Inflation with Random Forests"**.
+This repository contains the data, code and output of the study described in the paper **"Modelling Inflation with Random Forests"**.
 
 ## **Abstract**
 
